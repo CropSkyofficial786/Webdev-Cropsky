@@ -41,7 +41,3 @@ The web platform is built using the following technologies:
 
 ---
 
-## 🏗️ Project Structure
-
-Here's a quick overview of the key directories:
-
